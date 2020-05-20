@@ -20,7 +20,7 @@ public class ArrayQueueDemo1 {
             System.out.println("s(show) : 显示队列");
             System.out.println("e(exit) : 退出程序");
             System.out.println("a(add) :  添加数据到队列");
-            System.out.println("g(get) :  从队列去除数据");
+            System.out.println("g(get) :  从队列取出数据");
             System.out.println("h(head) : 查看队列头部数据");
 
             key = scanner.next().charAt(0);
